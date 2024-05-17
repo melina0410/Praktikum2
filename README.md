@@ -27,3 +27,6 @@ Um neue Changes hochzuladen:
 
 VS Code Extensions:
 - Live Server, um seine Seite und Änderungen live zu sehen -> Rechts unten "Go Live"
+
+Bei Hilfe:
+- nhung.pham@basf.com und tim.bauhoff@basf.com schreiben
