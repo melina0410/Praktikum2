@@ -1,0 +1,85 @@
+body {
+    font-family: "Archivo Black", sans-serif;
+    font-size: 50px;
+    background-color: F3F3F3;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.image-container{
+    background-color: white;
+    padding: 10px;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color:#860A35;
+}
+
+
+.header-image{
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    object-position: 50% 50%;
+    display: block;
+}
+
+
+.line{
+    background-color: #A3B763;
+    width: 582px;
+    height: 5px;
+    margin-left:100%;
+    margin-top: 16px;
+}
+
+.line1{
+    background-color: #AF2655;
+    width: 688;
+    height: 5px;
+    margin-left:100%;
+    margin-top: 16px;
+}
+
+.line2{
+    background-color: #A3B763;
+    width: 768;
+    height: 5px;
+    margin-left:100%;
+}
+
+.line5{
+    background-color: #A3B763;
+    width: 582px;
+    height: 5px;
+    margin-right:100%;
+    margin-top: 16px;
+}
+
+.line4{
+    background-color: #AF2655;
+    width: 688;
+    height: 5px;
+    margin-right:100%;
+    margin-top: 16px;
+}
+
+.line3{
+    background-color: #A3B763;
+    width: 768;
+    height: 5px;
+    margin-right:100%;
+    margin-top: 16px;
+}
+
+.dot{
+    height: 771px;
+    width: 738px;
+    background-color: #AF2655;
+    border-radius: 50%;
+    display: inline-block;
+    margin-bottom: 50%;
+}
